@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 [![An image of @ashddftw's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashddftw)](https://holopin.io/@ashddftw)
 
 <!--
