@@ -78,10 +78,9 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshDDftw&theme=github_dark" />
 <!-- <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=AshDDftw" /> -->
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="pacman contribution animation" />
-</p>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AshDDftw/AshDDftw/output/pacman-contribution-graph-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AshDDftw/AshDDftw/output/pacman-contribution-graph.svg">
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AshDDftw/AshDDftw/output/pacman-contribution-graph.svg">
 
 </div>
 
