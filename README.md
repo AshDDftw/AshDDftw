@@ -85,6 +85,12 @@
 
 ---
 
+## Wakatime stats
+<div align="center">
+<figure><embed src="https://wakatime.com/share/@ashftw/d56cc521-0eb4-4ece-a6e4-b6a9a79d404d.svg"></embed></figure>
+</div>
+---
+
 ## 🎧 Coding Soundtrack (Live)
 
 <div align="center">
