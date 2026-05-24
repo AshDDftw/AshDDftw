@@ -70,13 +70,7 @@
 ## 📊 GitHub Activity Overview
 
 <div align="center">
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshDDftw&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshDDftw&layout=compact&langs_count=8&theme=tokyonight&hide=jupyter%20notebook&cache_seconds=1800"/>
-</p>
-
+<img src="https://streak-stats.demolab.com?user=AshDDftw&theme=tokyonight" />
 </div>
 
 <div align="center">
@@ -89,7 +83,12 @@
 ---
 
 ## Wakatime stats
-![Wakatime stats](https://wakatime.com/share/@ashftw/780ca7ed-4213-48ad-9890-a6489a70b9bb.svg)
+<p align="center">
+  <img 
+    src="https://wakatime.com/share/@ashftw/780ca7ed-4213-48ad-9890-a6489a70b9bb.svg"
+    width="700"
+  />
+</p>
 ---
 
 ## 🎧 Coding Soundtrack (Live)
