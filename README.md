@@ -80,7 +80,6 @@
 
 </div>
 
----
 
 ## Wakatime stats
 <p align="center">
@@ -89,7 +88,6 @@
     width="700"
   />
 </p>
----
 
 ## 🎧 Coding Soundtrack (Live)
 
