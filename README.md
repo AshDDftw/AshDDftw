@@ -97,7 +97,7 @@
 
 </div>
 
-> Mostly Rock and Metal nowadays
+> Exploring Rock and Metal nowadays
 
 ---
 
